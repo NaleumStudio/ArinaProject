@@ -1,0 +1,4 @@
+node_modules
+process.env
+.sqlite
+config.json.env
